@@ -1,0 +1,6 @@
+/* Test Project file for quick hands on */
+#include <stdio.h>
+int main(void) {
+    printf("Welcome to the Git Hub");
+    return 0;
+}
